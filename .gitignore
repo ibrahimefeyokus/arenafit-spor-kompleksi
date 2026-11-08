@@ -1,0 +1,16 @@
+# Gizli bilgiler: asla depoya eklemeyin
+wp-config.php
+.env
+*.sql
+*.sql.gz
+readme.txt
+
+# Büyük ve üretilen dosyalar
+*.zip
+wp-content/uploads/
+node_modules/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
